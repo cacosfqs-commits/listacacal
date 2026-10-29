@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-style: oblique;
+    background-color: rosybrown;
+    border-radius: 50px;
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    font-size: larger;
+    font-style: bold;
+    text-align: center;
+    background-color: rosybrown;
+    color: antiquewhite;
+    border-radius: 50px;
+}
+input{
+    border: 35px;
+    border-radius: 5px;
+    background-color: rosybrown;
+    font-style: inherit;
+    text-align: center;
+    align-items: center;
+}
+button{
+    border-radius: 5px;
+    background-color: rosybrown;
+    color: antiquewhite;
+    border-color: antiquewhite;
+}
+hr{
+ border: 2px dashed rosybrown;
+}
+ul{
+    color: rosybrown;
+    font-style: inherit;
+}
